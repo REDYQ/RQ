@@ -1,2 +1,2 @@
-# RQ_Data
+# RQ.online
 Server Data
