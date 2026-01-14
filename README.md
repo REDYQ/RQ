@@ -1,2 +1,2 @@
-# RQ.online
-Server Data
+# RQ
+Server Data by REDYQ
