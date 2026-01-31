@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" style="width: 20%;" />
+  <img src="asset/logo.png" style="width: 20%;" />
 </p>
 
 # REDYQ
