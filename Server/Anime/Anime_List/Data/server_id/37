@@ -1,0 +1,51 @@
+[
+	{
+		"studio_name": "Studio DEEN",
+		"year": "январь 2016г.",
+		"name": "Этот замечательный мир!",
+		"episode": "10",
+		"type": "ТВ Сериал"
+	},
+	{
+		"studio_name": "Studio DEEN",
+		"year": "июнь 2016г.",
+		"name": "Этот замечательный мир! OVA",
+		"episode": "1",
+		"type": "OVA"
+	},
+	{
+		"studio_name": "Studio DEEN",
+		"year": "январь 2017г.",
+		"name": "Этот замечательный мир! 2",
+		"episode": "10",
+		"type": "ТВ Сериал"
+	},
+	{
+		"studio_name": "Studio DEEN",
+		"year": "июль 2017г.",
+		"name": "Этот замечательный мир! 2 OVA",
+		"episode": "1",
+		"type": "OVA"
+	},
+	{
+		"studio_name": "J.C. Staff",
+		"year": "август 2019г.",
+		"name": "Этот замечательный мир! Багровая легенда",
+		"episode": "1",
+		"type": "Фильм"
+	},
+	{
+		"studio_name": "Drive",
+		"year": "апрель 2023г.",
+		"name": "Одаривая этот замечательный мир взрывами!",
+		"episode": "12",
+		"type": "ТВ Сериал"
+	},
+	{
+		"studio_name": "Drive",
+		"year": "апрель 2024г.",
+		"name": "Этот замечательный мир! 3",
+		"episode": "11",
+		"type": "ТВ Сериал"
+	}
+]

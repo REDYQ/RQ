@@ -1,0 +1,30 @@
+[
+	{
+		"studio_name": "Madhouse Studios",
+		"year": "июль 2015г.",
+		"name": "Повелитель",
+		"episode": "13",
+		"type": "ТВ Сериал"
+	},
+	{
+		"studio_name": "Madhouse Studios",
+		"year": "январь 2018г.",
+		"name": "Повелитель 2",
+		"episode": "13",
+		"type": "ТВ Сериал"
+	},
+	{
+		"studio_name": "Madhouse Studios",
+		"year": "июль 2018г.",
+		"name": "Повелитель 3",
+		"episode": "13",
+		"type": "ТВ Сериал"
+	},
+	{
+		"studio_name": "Madhouse Studios",
+		"year": "июль 2022г.",
+		"name": "Повелитель 4",
+		"episode": "13",
+		"type": "ТВ Сериал"
+	}
+]

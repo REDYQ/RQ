@@ -1,0 +1,30 @@
+[
+	{
+		"studio_name": "TMS Entertainment",
+		"year": "июль 2020г.",
+		"name": "Девушка на час",
+		"episode": "12",
+		"type": "ТВ Сериал"
+	},
+	{
+		"studio_name": "TMS Entertainment",
+		"year": "июль 2022г.",
+		"name": "Девушка на час 2",
+		"episode": "12",
+		"type": "ТВ Сериал"
+	},
+	{
+		"studio_name": "TMS Entertainment",
+		"year": "июль 2023г.",
+		"name": "Девушка на час 3",
+		"episode": "12",
+		"type": "ТВ Сериал"
+	},
+	{
+		"studio_name": "TMS Entertainment",
+		"year": "июль 2025г.",
+		"name": "Девушка на час 4",
+		"episode": "12",
+		"type": "ТВ Сериал"
+	}
+]

@@ -1,0 +1,37 @@
+[
+	{
+		"studio_name": "Seven Arcs",
+		"year": "октябрь 2020г.",
+		"name": "Унеси меня на Луну",
+		"episode": "12",
+		"type": "ТВ Сериал"
+	},
+	{
+		"studio_name": "Seven Arcs",
+		"year": "август 2021г.",
+		"name": "Унеси меня на Луну OVA",
+		"episode": "1",
+		"type": "OVA"
+	},
+	{
+		"studio_name": "Seven Arcs",
+		"year": "ноябрь 2022г.",
+		"name": "Унеси меня на Луну: Униформа",
+		"episode": "1",
+		"type": "Спешл"
+	},
+	{
+		"studio_name": "Seven Arcs",
+		"year": "апрель 2023г.",
+		"name": "Унеси меня на Луну 2",
+		"episode": "12",
+		"type": "ТВ Сериал"
+	},
+	{
+		"studio_name": "Seven Arcs",
+		"year": "июль 2023г.",
+		"name": "Унеси меня на Луну: Дни старшей школы",
+		"episode": "4",
+		"type": "ONA"
+	}
+]

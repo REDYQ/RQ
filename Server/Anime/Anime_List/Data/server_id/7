@@ -1,0 +1,30 @@
+[
+	{
+		"studio_name": "Tezuka Production",
+		"year": "январь 2019г.",
+		"name": "Пять невест",
+		"episode": "12",
+		"type": "ТВ Сериал"
+	},
+	{
+		"studio_name": "Bibury Animation Studios",
+		"year": "январь 2021г.",
+		"name": "Пять невест 2",
+		"episode": "12",
+		"type": "ТВ Сериал"
+	},
+	{
+		"studio_name": "Bibury Animation Studios",
+		"year": "май 2022г.",
+		"name": "Пять невест. Фильм",
+		"episode": "1",
+		"type": "Фильм"
+	},
+	{
+		"studio_name": "SHAFT",
+		"year": "сентябрь 2023г.",
+		"name": "Пять невест: Спецвыпуск",
+		"episode": "2",
+		"type": "Спешл"
+	}
+]

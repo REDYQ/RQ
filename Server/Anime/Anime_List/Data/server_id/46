@@ -1,0 +1,23 @@
+[
+	{
+		"studio_name": "Kinema Citrus",
+		"year": "июль 2023г.",
+		"name": "Мой счастливый брак",
+		"episode": "12",
+		"type": "ТВ Сериал"
+	},
+	{
+		"studio_name": "Kinema Citrus",
+		"year": "март 2024г.",
+		"name": "Мой счастливый брак: Форма моего счастья",
+		"episode": "1",
+		"type": "OVA"
+	},
+	{
+		"studio_name": "Kinema Citrus",
+		"year": "январь 2025г.",
+		"name": "Мой счастливый брак 2",
+		"episode": "13",
+		"type": "ТВ Сериал"
+	}
+]
