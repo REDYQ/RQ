@@ -1,8 +1,8 @@
 [
 	{
-		"icon": "78.jpg",
+		"icon": "https://raw.githubusercontent.com/REDYQ/RQ/refs/heads/main/project/Anime_Music/icon/cover/78.jpg",
 		"name": "Благоухающий цветок расцветает с достоинством",
-		"data": "#",
+		"data": "https://raw.githubusercontent.com/REDYQ/RQ/refs/heads/main/project/Anime_Music/music/78/data.json",
 		"number": "78"
 	}
 ]
