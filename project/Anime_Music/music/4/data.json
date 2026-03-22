@@ -1,0 +1,50 @@
+[
+	{
+		"icon": "https://raw.githubusercontent.com/REDYQ/RQ/refs/heads/main/project/Anime_https://raw.githubusercontent.com/REDYQ/RQ/refs/heads/main/project/Anime_Music/music/icon/asset/4/1/1.jpg",
+		"name": "Unmei Kyoudoutai!",
+		"autor": "NeRIAme",
+		"source": "Терраса кафе богинь",
+		"music": "https://raw.githubusercontent.com/REDYQ/RQ/refs/heads/main/project/Anime_Music/music/4/1/1.mp3",
+		"video": "https://raw.githubusercontent.com/REDYQ/RQ/refs/heads/main/project/Anime_Music/video/4/1/1.mp4",
+		"volume_master": "0",
+		"episode": "1-11",
+		"type": "OPENING",
+		"full": "FULL"
+	},
+	{
+		"icon": "https://raw.githubusercontent.com/REDYQ/RQ/refs/heads/main/project/Anime_https://raw.githubusercontent.com/REDYQ/RQ/refs/heads/main/project/Anime_Music/music/icon/asset/4/1/2.jpg",
+		"name": "Dramatic",
+		"autor": "Satou Miki",
+		"source": "Терраса кафе богинь",
+		"music": "https://raw.githubusercontent.com/REDYQ/RQ/refs/heads/main/project/Anime_Music/music/4/1/2.mp3",
+		"video": "https://raw.githubusercontent.com/REDYQ/RQ/refs/heads/main/project/Anime_Music/video/4/1/2.mp4",
+		"volume_master": "0",
+		"episode": "(1), 2, (3-4), 5-6, (7), 8-11, (12)",
+		"type": "ENDING",
+		"full": "FULL"
+	},
+	{
+		"icon": "https://raw.githubusercontent.com/REDYQ/RQ/refs/heads/main/project/Anime_https://raw.githubusercontent.com/REDYQ/RQ/refs/heads/main/project/Anime_Music/music/icon/asset/4/2/1.jpg",
+		"name": "Charge!",
+		"autor": "Hikari Codama",
+		"source": "Терраса кафе богинь 2",
+		"music": "https://raw.githubusercontent.com/REDYQ/RQ/refs/heads/main/project/Anime_Music/music/4/2/1.mp3",
+		"video": "https://raw.githubusercontent.com/REDYQ/RQ/refs/heads/main/project/Anime_Music/video/4/2/1.mp4",
+		"volume_master": "0",
+		"episode": "1-11",
+		"type": "OPENING",
+		"full": "FULL"
+	},
+	{
+		"icon": "https://raw.githubusercontent.com/REDYQ/RQ/refs/heads/main/project/Anime_https://raw.githubusercontent.com/REDYQ/RQ/refs/heads/main/project/Anime_Music/music/icon/asset/4/2/2.jpg",
+		"name": "Nacchatta",
+		"autor": "Aglio Olio e Peperoncino",
+		"source": "Терраса кафе богинь 2",
+		"music": "https://raw.githubusercontent.com/REDYQ/RQ/refs/heads/main/project/Anime_Music/music/4/2/2.mp3",
+		"video": "https://raw.githubusercontent.com/REDYQ/RQ/refs/heads/main/project/Anime_Music/video/4/2/2.mp4",
+		"volume_master": "0",
+		"episode": "1-11, (12)",
+		"type": "ENDING",
+		"full": "FULL"
+	}
+]
