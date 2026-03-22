@@ -10,7 +10,8 @@ Server Data REDYQ
 
 |Name|Platform|App Status|
 |-|-|-|
-|Anime_Music|WEB|Загрузка данных|
+|Anime_Music|🌐 WEB|🕓 Техническое обслуживание|
+|Anime_Music|📱 Android|⛔ OFFLINE|
 
 ## Disclaimer (Отказ от ответственности)
 
