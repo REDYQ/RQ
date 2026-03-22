@@ -1,0 +1,26 @@
+[
+	{
+		"icon": "https://raw.githubusercontent.com/REDYQ/RQ/refs/heads/main/project/Anime_https://raw.githubusercontent.com/REDYQ/RQ/refs/heads/main/project/Anime_Music/music/icon/asset/8/1/1.jpg",
+		"name": "Bad Cand",
+		"autor": "yukaDD",
+		"source": "Девушки на линии фронта",
+		"music": "https://raw.githubusercontent.com/REDYQ/RQ/refs/heads/main/project/Anime_Music/music/8/1/1.mp3",
+		"video": "https://raw.githubusercontent.com/REDYQ/RQ/refs/heads/main/project/Anime_Music/video/8/1/1.mp4",
+		"volume_master": "0",
+		"episode": "1-12",
+		"type": "OPENING",
+		"full": "FULL"
+	},
+	{
+		"icon": "https://raw.githubusercontent.com/REDYQ/RQ/refs/heads/main/project/Anime_https://raw.githubusercontent.com/REDYQ/RQ/refs/heads/main/project/Anime_Music/music/icon/asset/8/1/2.jpg",
+		"name": "HORIZON",
+		"autor": "Team Shachi",
+		"source": "Девушки на линии фронта",
+		"music": "https://raw.githubusercontent.com/REDYQ/RQ/refs/heads/main/project/Anime_Music/music/8/1/2.mp3",
+		"video": "https://raw.githubusercontent.com/REDYQ/RQ/refs/heads/main/project/Anime_Music/video/8/1/2.mp4",
+		"volume_master": "0",
+		"episode": "1-11, (12)",
+		"type": "ENDING",
+		"full": "FULL"
+	}
+]
