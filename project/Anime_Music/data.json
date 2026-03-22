@@ -1,0 +1,68 @@
+[
+	{
+		"icon": "https://raw.githubusercontent.com/REDYQ/RQ/refs/heads/main/project/Anime_Music/icon/cover/1.jpg",
+		"name": "Комендант общежития богинь",
+		"data": "https://raw.githubusercontent.com/REDYQ/RQ/refs/heads/main/project/Anime_Music/music/1/data.json",
+		"number": "1"
+	},
+	{
+		"icon": "https://raw.githubusercontent.com/REDYQ/RQ/refs/heads/main/project/Anime_Music/icon/cover/2.jpg",
+		"name": "Дневник будущего",
+		"data": "https://raw.githubusercontent.com/REDYQ/RQ/refs/heads/main/project/Anime_Music/music/2/data.json",
+		"number": "2"
+	},
+	{
+		"icon": "https://raw.githubusercontent.com/REDYQ/RQ/refs/heads/main/project/Anime_Music/icon/cover/3.jpg",
+		"name": "Развращённая гильдия",
+		"data": "https://raw.githubusercontent.com/REDYQ/RQ/refs/heads/main/project/Anime_Music/music/3/data.json",
+		"number": "3"
+	},
+	{
+		"icon": "https://raw.githubusercontent.com/REDYQ/RQ/refs/heads/main/project/Anime_Music/icon/cover/4.jpg",
+		"name": "Терраса кафе богинь",
+		"data": "https://raw.githubusercontent.com/REDYQ/RQ/refs/heads/main/project/Anime_Music/music/4/data.json",
+		"number": "4"
+	},
+	{
+		"icon": "https://raw.githubusercontent.com/REDYQ/RQ/refs/heads/main/project/Anime_Music/icon/cover/5.jpg",
+		"name": "Аля иногда кокетничает со мной по-русски",
+		"data": "https://raw.githubusercontent.com/REDYQ/RQ/refs/heads/main/project/Anime_Music/music/5/data.json",
+		"number": "5"
+	},
+	{
+		"icon": "https://raw.githubusercontent.com/REDYQ/RQ/refs/heads/main/project/Anime_Music/icon/cover/6.jpg",
+		"name": "Девушка на час",
+		"data": "https://raw.githubusercontent.com/REDYQ/RQ/refs/heads/main/project/Anime_Music/music/6/data.json",
+		"number": "6"
+	},
+	{
+		"icon": "https://raw.githubusercontent.com/REDYQ/RQ/refs/heads/main/project/Anime_Music/icon/cover/7.jpg",
+		"name": "Пять невест",
+		"data": "https://raw.githubusercontent.com/REDYQ/RQ/refs/heads/main/project/Anime_Music/music/7/data.json",
+		"number": "7"
+	},
+	{
+		"icon": "https://raw.githubusercontent.com/REDYQ/RQ/refs/heads/main/project/Anime_Music/icon/cover/8.jpg",
+		"name": "Девушки на линии фронта",
+		"data": "https://raw.githubusercontent.com/REDYQ/RQ/refs/heads/main/project/Anime_Music/music/8/data.json",
+		"number": "8"
+	},
+	{
+		"icon": "https://raw.githubusercontent.com/REDYQ/RQ/refs/heads/main/project/Anime_Music/icon/cover/10.jpg",
+		"name": "Ангел по соседству",
+		"data": "https://raw.githubusercontent.com/REDYQ/RQ/refs/heads/main/project/Anime_Music/music/10/data.json",
+		"number": "10"
+	},
+	{
+		"icon": "https://raw.githubusercontent.com/REDYQ/RQ/refs/heads/main/project/Anime_Music/icon/cover/11.jpg",
+		"name": "Неразумный ангел в танце с демоном",
+		"data": "https://raw.githubusercontent.com/REDYQ/RQ/refs/heads/main/project/Anime_Music/music/11/data.json",
+		"number": "11"
+	},
+	{
+		"icon": "https://raw.githubusercontent.com/REDYQ/RQ/refs/heads/main/project/Anime_Music/icon/cover/78.jpg",
+		"name": "Благоухающий цветок расцветает с достоинством",
+		"data": "https://raw.githubusercontent.com/REDYQ/RQ/refs/heads/main/project/Anime_Music/music/78/data.json",
+		"number": "78"
+	}
+]
