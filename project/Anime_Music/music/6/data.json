@@ -1,0 +1,110 @@
+[
+	{
+		"icon": "https://raw.githubusercontent.com/REDYQ/RQ/refs/heads/main/project/Anime_https://raw.githubusercontent.com/REDYQ/RQ/refs/heads/main/project/Anime_Music/music/icon/asset/6/1/1.jpg",
+		"name": "Centimeter",
+		"autor": "the peggies",
+		"source": "Девушка на час",
+		"music": "https://raw.githubusercontent.com/REDYQ/RQ/refs/heads/main/project/Anime_Music/music/6/1/1.mp3",
+		"video": "https://raw.githubusercontent.com/REDYQ/RQ/refs/heads/main/project/Anime_Music/video/6/1/1.mp4",
+		"volume_master": "0",
+		"episode": "2-11, (12)",
+		"type": "OPENING",
+		"full": "FULL"
+	},
+	{
+		"icon": "https://raw.githubusercontent.com/REDYQ/RQ/refs/heads/main/project/Anime_https://raw.githubusercontent.com/REDYQ/RQ/refs/heads/main/project/Anime_Music/music/icon/asset/6/1/2.jpg",
+		"name": "Kokuhaku Bungee Jump",
+		"autor": "halca",
+		"source": "Девушка на час",
+		"music": "https://raw.githubusercontent.com/REDYQ/RQ/refs/heads/main/project/Anime_Music/music/6/1/2.mp3",
+		"video": "https://raw.githubusercontent.com/REDYQ/RQ/refs/heads/main/project/Anime_Music/video/6/1/2.mp4",
+		"volume_master": "0",
+		"episode": "1, (2), 3-6, 8-11, (12)",
+		"type": "ENDING",
+		"full": "FULL"
+	},
+	{
+		"icon": "https://raw.githubusercontent.com/REDYQ/RQ/refs/heads/main/project/Anime_https://raw.githubusercontent.com/REDYQ/RQ/refs/heads/main/project/Anime_Music/music/icon/asset/6/1/3.jpg",
+		"name": "FIRST DROP",
+		"autor": "halca",
+		"source": "Девушка на час",
+		"music": "https://raw.githubusercontent.com/REDYQ/RQ/refs/heads/main/project/Anime_Music/music/6/1/3.mp3",
+		"video": "https://raw.githubusercontent.com/REDYQ/RQ/refs/heads/main/project/Anime_Music/video/6/1/3.mp4",
+		"volume_master": "0",
+		"episode": "7",
+		"type": "ENDING",
+		"full": "FULL"
+	},
+	{
+		"icon": "https://raw.githubusercontent.com/REDYQ/RQ/refs/heads/main/project/Anime_https://raw.githubusercontent.com/REDYQ/RQ/refs/heads/main/project/Anime_Music/music/icon/asset/6/2/1.jpg",
+		"name": "Himitsu Koigokoro",
+		"autor": "CHiCO with HoneyWorks",
+		"source": "Девушка на час 2",
+		"music": "https://raw.githubusercontent.com/REDYQ/RQ/refs/heads/main/project/Anime_Music/music/6/2/1.mp3",
+		"video": "https://raw.githubusercontent.com/REDYQ/RQ/refs/heads/main/project/Anime_Music/video/6/2/1.mp4",
+		"volume_master": "0",
+		"episode": "1-11, (12)",
+		"type": "OPENING",
+		"full": "FULL"
+	},
+	{
+		"icon": "https://raw.githubusercontent.com/REDYQ/RQ/refs/heads/main/project/Anime_https://raw.githubusercontent.com/REDYQ/RQ/refs/heads/main/project/Anime_Music/music/icon/asset/6/2/2.jpg",
+		"name": "Ienai feat. asmi",
+		"autor": "MIMiNARI",
+		"source": "Девушка на час 2",
+		"music": "https://raw.githubusercontent.com/REDYQ/RQ/refs/heads/main/project/Anime_Music/music/6/2/2.mp3",
+		"video": "https://raw.githubusercontent.com/REDYQ/RQ/refs/heads/main/project/Anime_Music/video/6/2/2.mp4",
+		"volume_master": "0",
+		"episode": "(1), 2-7, (8), 9-12",
+		"type": "ENDING",
+		"full": "FULL"
+	},
+	{
+		"icon": "https://raw.githubusercontent.com/REDYQ/RQ/refs/heads/main/project/Anime_https://raw.githubusercontent.com/REDYQ/RQ/refs/heads/main/project/Anime_Music/music/icon/asset/6/3/1.jpg",
+		"name": "Renai millimeter film",
+		"autor": "Halca",
+		"source": "Девушка на час 3",
+		"music": "https://raw.githubusercontent.com/REDYQ/RQ/refs/heads/main/project/Anime_Music/music/6/3/1.mp3",
+		"video": "https://raw.githubusercontent.com/REDYQ/RQ/refs/heads/main/project/Anime_Music/video/6/3/1.mp4",
+		"volume_master": "0",
+		"episode": "1-11",
+		"type": "OPENING",
+		"full": "FULL"
+	},
+	{
+		"icon": "https://raw.githubusercontent.com/REDYQ/RQ/refs/heads/main/project/Anime_https://raw.githubusercontent.com/REDYQ/RQ/refs/heads/main/project/Anime_Music/music/icon/asset/6/3/2.jpg",
+		"name": "End Roll",
+		"autor": "Amber's",
+		"source": "Девушка на час 3",
+		"music": "https://raw.githubusercontent.com/REDYQ/RQ/refs/heads/main/project/Anime_Music/music/6/3/2.mp3",
+		"video": "https://raw.githubusercontent.com/REDYQ/RQ/refs/heads/main/project/Anime_Music/video/6/3/2.mp4",
+		"volume_master": "0",
+		"episode": "(1-2), 3-7, <8-9>, 10-12",
+		"type": "ENDING",
+		"full": "FULL"
+	},
+	{
+		"icon": "https://raw.githubusercontent.com/REDYQ/RQ/refs/heads/main/project/Anime_https://raw.githubusercontent.com/REDYQ/RQ/refs/heads/main/project/Anime_Music/music/icon/asset/6/4/1.jpg",
+		"name": "Umitsuki",
+		"autor": "ClariS",
+		"source": "Девушка на час 4",
+		"music": "https://raw.githubusercontent.com/REDYQ/RQ/refs/heads/main/project/Anime_Music/music/6/4/1.mp3",
+		"video": "https://raw.githubusercontent.com/REDYQ/RQ/refs/heads/main/project/Anime_Music/video/6/4/1.mp4",
+		"volume_master": "0",
+		"episode": "2-12",
+		"type": "OPENING",
+		"full": "FULL"
+	},
+	{
+		"icon": "https://raw.githubusercontent.com/REDYQ/RQ/refs/heads/main/project/Anime_https://raw.githubusercontent.com/REDYQ/RQ/refs/heads/main/project/Anime_Music/music/icon/asset/6/4/2.jpg",
+		"name": "Boku no Vega",
+		"autor": "Regal Lily",
+		"source": "Девушка на час 4",
+		"music": "https://raw.githubusercontent.com/REDYQ/RQ/refs/heads/main/project/Anime_Music/music/6/4/2.mp3",
+		"video": "https://raw.githubusercontent.com/REDYQ/RQ/refs/heads/main/project/Anime_Music/video/6/4/2.mp4",
+		"volume_master": "0",
+		"episode": "1-2, (3), 4-9, (10), 11-12",
+		"type": "ENDING",
+		"full": "FULL"
+	}
+]
